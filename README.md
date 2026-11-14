@@ -16,7 +16,7 @@ Le second contient le texte "complet" de l'atelier, qui permet d'affiner certain
 
 Nous invitons chacun.e à partager, modifier, corriger cet outil de lutte.
 
-Pour télécharger ces deux .pdf, clique sur "Releases" à droit et télécharge chacun des deux fichiers proposés.                                                                 =====>
+Pour télécharger les deux .pdf, clique sur "Releases" à droite, un peu plus haut et télécharge chacun des deux fichiers proposés.                                                    =====>                                                                                                                                                                    
 
 
 Pour toute suggestion ou retour critique, vous pouvez utiliser le Github en ouvrant une "issue" ou pour plus d'anonymat, nous écrire à contrelarepression at riseup point net
