@@ -24,7 +24,7 @@ Pour toute suggestion ou retour critique, vous pouvez utiliser le Github en ouvr
 
 
 Contenu des prochaines mises à jour :
-Détournement fichier ID par la police
-Bitmask
-Tutamail
+Détournement fichier ID par la police,
+Bitmask,
+Tutamail,
 Chatons : deux fleurs, sans nuage, infini
