@@ -11,7 +11,7 @@ Nous avons travaillé à partir des nombreux livres et brochures publiés par de
 
 Ce document est pensé pour que chacun.e puisse organiser son propre atelier d'autoformation sur ces questions avec ses ami.es, ses camarades de classe, son collectif militant, son syndicat, ses collègues de bureau... Sans avoir besoin de la présence extérieure "d'expert.es" sur ces questions.
 
-Un premier pdf contient le "diaporama". 
+Un premier pdf contient le "diaporama". 
 Le second contient le texte "complet" de l'atelier, qui permet d'affiner certaines réponses à ce qui est présenté dans le diaporama, et peut être utilisé comme support par les personnes qui animent l'atelier.
 
 Nous invitons chacun.e à partager, modifier, corriger cet outil de lutte.
