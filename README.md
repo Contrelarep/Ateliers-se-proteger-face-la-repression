@@ -1,6 +1,8 @@
 # Ateliers-se-proteger-face-la-repression
 Se protéger face à la répression : cercles de sécurité, modèles de menaces, surveillance, garde-à-vue, dépôt et autodéfense numérique
 
+Les prochaines mises à jour du document seront publiées sur ProtonDrive : https://drive.proton.me/urls/CBWXJS27R8#O2X6EjE49Tyc et non plus ici.
+
 
 En cette période de féroce répression, il est plus que jamais nécessaire que chacun.e se forme et s'approprie les outils et connaissances qui permettent de faire face à la police et à la justice.
 
